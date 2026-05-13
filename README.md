@@ -5,7 +5,8 @@
 I am studying cloud infrastructure, DevOps, and backend/server operations.  
 Currently, I am building hands-on projects using AWS, Terraform, Kubernetes, Jenkins, ArgoCD, Prometheus, and Grafana.
 
-IT Education 
+
+# IT Education 
 
 
 
@@ -16,7 +17,7 @@ IT Education
 
 
 
-👯 Project
+# 👯 Project
 🔭프로젝트 경험 1. 
 ﻿2025.03 ~ 2025.04 | 하이브리드 클라우드 환경기반의 스마트 공장 네트워크 관리	   : 
 
@@ -38,14 +39,23 @@ IT Education
 
 기술스택: AWS, VMware vSphere, GNS3, Zabbix, Grafana 
 
-🌱프로젝트 경험 2. 
 
 
-😄Award
+# 🌱프로젝트 경험 2. 
+
+
+
+
+
+# 😄Award
 2025 (주)멀티캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성과정
 - 모범훈련생 선정
 
-✨Certificates
+
+
+
+
+# ✨Certificates
 
 2026.03 네트워크 관리사 2급
 
