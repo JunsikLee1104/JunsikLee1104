@@ -1,19 +1,23 @@
 ## Hi there 👋
 
-# 💙 Hi, I'm Junsik💙
+💙 Hi, I'm Junsik💙
 
 I am studying cloud infrastructure, DevOps, and backend/server operations.  
 Currently, I am building hands-on projects using AWS, Terraform, Kubernetes, Jenkins, ArgoCD, Prometheus, and Grafana.
 
-# IT Education 
+IT Education 
+
+
 
 2026 SeSAC 도봉 3기 AI 바이브코딩을 활용한 클라우드 DevOps 엔지니어 양성 과정 
 
 2025 (주)멀티 캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정 3회차
 
 
-# 👯 Project
-# 🔭프로젝트 경험 1. 
+
+
+👯 Project
+🔭프로젝트 경험 1. 
 ﻿2025.03 ~ 2025.04 | 하이브리드 클라우드 환경기반의 스마트 공장 네트워크 관리	   : 
 
 참여인원: 2명 
@@ -34,14 +38,14 @@ Currently, I am building hands-on projects using AWS, Terraform, Kubernetes, Jen
 
 기술스택: AWS, VMware vSphere, GNS3, Zabbix, Grafana 
 
-# 🌱프로젝트 경험 2. 
+🌱프로젝트 경험 2. 
 
 
-# 😄Award
+😄Award
 2025 (주)멀티캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성과정
 - 모범훈련생 선정
 
-# ✨Certificates
+✨Certificates
 
 2026.03 네트워크 관리사 2급
 
