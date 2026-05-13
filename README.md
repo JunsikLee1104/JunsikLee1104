@@ -1,77 +1,85 @@
-## Hi there 👋
+# 💙 Hi, I'm Junsik 💙
 
-💙 Hi, I'm Junsik💙
+I am studying **Cloud Infrastructure, DevOps, and Backend/Server Operations**.  
+Currently, I am building hands-on projects using **AWS, Terraform, Kubernetes, Jenkins, ArgoCD, Prometheus, and Grafana**.
 
-I am studying cloud infrastructure, DevOps, and backend/server operations.  
-Currently, I am building hands-on projects using AWS, Terraform, Kubernetes, Jenkins, ArgoCD, Prometheus, and Grafana.
+---
 
+## 🎓 IT Education
 
-# IT Education 
+| Period | Program |
+|---|---|
+| 2026 | SeSAC 도봉 3기 AI 바이브코딩을 활용한 클라우드 DevOps 엔지니어 양성 과정 |
+| 2025 | (주)멀티캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정 3회차 |
 
+---
 
+## 👯 Projects
 
-2026 SeSAC 도봉 3기 AI 바이브코딩을 활용한 클라우드 DevOps 엔지니어 양성 과정 
+### 🔭 Project 1. Hybrid Cloud-based Smart Factory Network Management  
+**Period:** 2025.03 ~ 2025.04  
+**Team:** 2 members  
+**Role:** Cloud Infrastructure / Network Architecture / Documentation
 
+#### 📌 Overview
+AWS 기반 클라우드 시스템 설계 및 구축을 통해 스마트 공장의 네트워크를 중앙 집중화하고,  
+IoT 장비 데이터를 관리할 수 있는 클라우드 기반 스마트 공장 네트워크 환경을 구현했습니다.
 
+보안성, 확장성, 모니터링 체계를 고려하여 스마트 공장 환경에 적합한 인프라 구조를 설계했습니다.
 
-2025 (주)멀티 캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정 3회차
+#### 🛠️ My Contributions
+- 전체 프로젝트 문서화 및 협업 도구 기반 프로젝트 진행 관리
+- 스마트 공장 네트워크 토폴로지 및 클라우드 아키텍처 설계
+- VMware vSphere를 활용한 온프레미스 가상화 환경 구성
+- AWS 기반 웹 서비스 인프라 구축 및 운영
+- AWS CloudWatch와 Grafana를 활용한 모니터링 시스템 구축
 
+#### 🧰 Tech Stack
+`AWS` `VMware vSphere` `GNS3` `Zabbix` `Grafana`
 
+---
 
-# 👯 Project
-🔭프로젝트 경험 1. 
-﻿2025.03 ~ 2025.04 | 하이브리드 클라우드 환경기반의 스마트 공장 네트워크 관리	   : 
+### 🌱 Project 2. SeSAC Cloud DevOps Infra Project  
+**Period:** 2026  
+**Role:**
 
-참여인원: 2명 
+#### 📌 Overview
+AWS, Terraform, EKS, Jenkins, ArgoCD, Prometheus, Grafana를 활용하여  
+실무형 DevOps 인프라 환경을 설계하고 구축하는 프로젝트입니다.
 
-내용: AWS 기반 클라우드 시스템 설계 및 구축을 통해 스마트 공장의 네트워크를 중앙 집중화, IoT 장비에서의 데이터를 관리, 보안 및 확장성을 통해 스마트 공장환경에 최적화된 클라우드 솔루션을 구현 
+단순 배포가 아니라, **인프라 자동화, CI/CD, 모니터링, 장애 대응, DR 시나리오**까지 고려한 클라우드 운영 환경을 목표로 진행하고 있습니다.
 
-역할과 업무분담: 
+#### 🛠️ Key Work
+- AWS VPC, Subnet, NAT Gateway, Route Table, Security Group 설계
+- Terraform 기반 Infrastructure as Code 구조 설계
+- Amazon EKS 기반 Kubernetes 클러스터 구성
+- Jenkins, GitHub Actions, ArgoCD 기반 CI/CD 파이프라인 설계
+- Prometheus, Grafana, CloudWatch 기반 모니터링 환경 구성
+- Locust를 활용한 부하 테스트 및 Grafana 시각화
+- Multi-Region Failover 및 DR 시나리오 설계
 
--팀원, 전체적인 문서화 작업 및 협업 도구 활용한 전체 프로젝트 진행 총괄
+#### 🧰 Tech Stack
+`AWS` `Terraform` `EKS` `Kubernetes` `Docker` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `CloudWatch` `Locust`
 
--전체적인 네트워크 토폴로지  및 클라우드 아키텍처 설계 
+---
 
--가상화 도구 활용한, 온프레미스 환경 구성 (VMware vSphere)
+## 😄 Award
 
--AWS 인프라 구축 및 운영: 웹 서비스 환경 구성
+- **2025** 모범훈련생 선정  
+  - (주)멀티캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정
 
--AWS AMI 활용한 모니터링 시스템 구축 (AWS Cloudwatch+Grafana)
+---
 
-기술스택: AWS, VMware vSphere, GNS3, Zabbix, Grafana 
+## ✨ Certificates
 
+| Date | Certificate |
+|---|---|
+| 2026.03 | 네트워크관리사 2급 |
+| 2026.02 | AWS SAA - Solutions Architect Associate |
+| 2026.01 | RHCSA - Red Hat Certified System Administrator |
+| 2024.07 | 컴퓨터활용능력 2급 |
 
-
-🌱프로젝트 경험 2. 
-
-
-
-
-
-
-
-
-
-
-
-
-# 😄Award
-2025 (주)멀티캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성과정
-- 모범훈련생 선정
-
-
-
-
-
-# ✨Certificates
-
-2026.03 네트워크 관리사 2급
-
-2026.02 AWS SAA (Solution Architect Associate)
-
-2026.01 RHCSA (Redhat Certified System Administrator)
-
-2024.07 컴퓨터활용능력 2급
+---
 
 
 
