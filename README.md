@@ -6,10 +6,12 @@ I am studying cloud infrastructure, DevOps, and backend/server operations.
 Currently, I am building hands-on projects using AWS, Terraform, Kubernetes, Jenkins, ArgoCD, Prometheus, and Grafana.
 
 # IT Education 
-2025 (주)멀티 캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정 3회차
 
 2026 SeSAC 도봉 3기 AI 바이브코딩을 활용한 클라우드 DevOps 엔지니어 양성 과정 
 
+2025 (주)멀티 캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정 3회차
+
+ 
 
 # 👯 Project
 # 🔭프로젝트 경험 1. 
