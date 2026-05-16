@@ -65,7 +65,7 @@ AWS, Terraform, EKS, Jenkins, ArgoCD, Prometheus, Grafana를 활용하여
 
 ## 😄 Award
 
-- **2025** 모범훈련생 선정  
+- **2025** 유일 모범훈련생 선정  
   - (주)멀티캠퍼스 [에스넷그룹] 클라우드 활용 네트워크 엔지니어 양성 과정
 
 ---
